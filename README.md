@@ -8,3 +8,6 @@ private loadVideoWithHls(currentVideo: string){
   this.hls.loadSource(currentVideo);
   this.hls.attachMedia(this.video.nativeElement);
 }
+
+
+Para ver estadísticas localhost:8000/admin
